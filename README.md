@@ -40,6 +40,7 @@ SB( spot       = 212,
 
 ## 🚀 About Me
 Quantitative Derivatives Analyst
+-> linkedin : https://www.linkedin.com/in/sajad-taj/
 
 
 
